@@ -1,0 +1,10 @@
+The goodies selected for distribution are:
+
+IPods: 998
+MI Band: 999
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Fitbit Plus: 7980
+
+And the difference between the chosen goodie with highest price and the lowest price is 6982
